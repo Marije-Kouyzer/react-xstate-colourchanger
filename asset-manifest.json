@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-xstate-colourchanger/static/css/main.26955afe.chunk.css",
-    "main.js": "/react-xstate-colourchanger/static/js/main.67007cd4.chunk.js",
-    "main.js.map": "/react-xstate-colourchanger/static/js/main.67007cd4.chunk.js.map",
-    "runtime-main.js": "/react-xstate-colourchanger/static/js/runtime-main.04659b03.js",
-    "runtime-main.js.map": "/react-xstate-colourchanger/static/js/runtime-main.04659b03.js.map",
-    "static/js/2.f8e1c199.chunk.js": "/react-xstate-colourchanger/static/js/2.f8e1c199.chunk.js",
-    "static/js/2.f8e1c199.chunk.js.map": "/react-xstate-colourchanger/static/js/2.f8e1c199.chunk.js.map",
-    "index.html": "/react-xstate-colourchanger/index.html",
-    "static/css/main.26955afe.chunk.css.map": "/react-xstate-colourchanger/static/css/main.26955afe.chunk.css.map",
-    "static/js/2.f8e1c199.chunk.js.LICENSE.txt": "/react-xstate-colourchanger/static/js/2.f8e1c199.chunk.js.LICENSE.txt"
+    "main.css": "/Marije-Kouyzer/react-xstate-colourchanger/static/css/main.26955afe.chunk.css",
+    "main.js": "/Marije-Kouyzer/react-xstate-colourchanger/static/js/main.437f0142.chunk.js",
+    "main.js.map": "/Marije-Kouyzer/react-xstate-colourchanger/static/js/main.437f0142.chunk.js.map",
+    "runtime-main.js": "/Marije-Kouyzer/react-xstate-colourchanger/static/js/runtime-main.ebcd4de2.js",
+    "runtime-main.js.map": "/Marije-Kouyzer/react-xstate-colourchanger/static/js/runtime-main.ebcd4de2.js.map",
+    "static/js/2.2b49c879.chunk.js": "/Marije-Kouyzer/react-xstate-colourchanger/static/js/2.2b49c879.chunk.js",
+    "static/js/2.2b49c879.chunk.js.map": "/Marije-Kouyzer/react-xstate-colourchanger/static/js/2.2b49c879.chunk.js.map",
+    "index.html": "/Marije-Kouyzer/react-xstate-colourchanger/index.html",
+    "static/css/main.26955afe.chunk.css.map": "/Marije-Kouyzer/react-xstate-colourchanger/static/css/main.26955afe.chunk.css.map",
+    "static/js/2.2b49c879.chunk.js.LICENSE.txt": "/Marije-Kouyzer/react-xstate-colourchanger/static/js/2.2b49c879.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.04659b03.js",
-    "static/js/2.f8e1c199.chunk.js",
+    "static/js/runtime-main.ebcd4de2.js",
+    "static/js/2.2b49c879.chunk.js",
     "static/css/main.26955afe.chunk.css",
-    "static/js/main.67007cd4.chunk.js"
+    "static/js/main.437f0142.chunk.js"
   ]
 }
